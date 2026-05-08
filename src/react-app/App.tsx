@@ -84,10 +84,6 @@ function App() {
 										<span>页面风格</span>
 										<strong>浪漫轻奢 / 现代优雅</strong>
 									</div>
-									<div style={{ ...styles.infoRow, borderBottom: "none", paddingBottom: 0 }}>
-										<span>适配模板</span>
-										<strong>Vite React Template</strong>
-									</div>
 								</div>
 							</div>
 						</div>
